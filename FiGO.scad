@@ -7,7 +7,7 @@
   
 /* [Parts] */
 
-    part = "part_e_"; // [wheelchair_sim_:Wheelchair Simulation,part_a_:Part A,part_b_:Part B, part_b2_:Part B2, part_c_:Part C,part_d_:Part D,part_e_:Part E,all_parts_:All Parts]
+    part = "wheelchair_sim_"; // [wheelchair_sim_:Wheelchair Simulation,part_a_:Part A,part_b_:Part B, part_b2_:Part B2, part_c_:Part C,part_d_:Part D,part_e_:Part E,all_parts_:All Parts]
 
 /* [Measurements] */
 
