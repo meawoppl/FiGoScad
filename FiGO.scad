@@ -7,16 +7,16 @@
   
 /* [Parts] */
 
-    part = "wheelchair_sim_"; // [wheelchair_sim_:Wheelchair Simulation,part_a_:Part A,part_b_:Part B, part_b2_:Part B2, part_c_:Part C,part_d_:Part D,part_e_:Part E,all_parts_:All Parts]
+    part = "part_e_"; // [wheelchair_sim_:Wheelchair Simulation,part_a_:Part A,part_b_:Part B, part_b2_:Part B2, part_c_:Part C,part_d_:Part D,part_e_:Part E,all_parts_:All Parts]
 
 /* [Measurements] */
 
 // Dog Width in inches
-    A = 6;
+    A = 4.5;
 // Dog Height in inches
-    B = 8;
+    B = 9;
 // Dog Length in inches
-    C = 14;
+    C = 13;
 // Weight of Dog in pounds(<10 pounds will have an extra support bar)
     D = 11;
 
@@ -1105,3 +1105,4 @@ else if (part == "all_parts_") {
 // Jan 2016: new strap system holes that straps screw on to
 //feb24 update: back wheels can be angled backwards 15 degrees
 //feb 28 update: angled screw holes 
+ 
